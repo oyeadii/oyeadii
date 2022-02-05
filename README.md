@@ -1,10 +1,19 @@
-![image](https://user-images.githubusercontent.com/80537916/152650698-7174051a-9795-43d7-bc26-ad693fab07e5.png)
-
-I'm Aditya
-
-I'm a Final year B.tech student with specialization in Electronics and Communication Engineering.
-
-Interested in contributing to open source projects. Currently exploring Machine Learning domain.
-
-Proficient in Python, Data Science, Machine Learning and Web Development.
-
+<div align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" height="30%"></div>
+<div><h1 align="center">I'm Aditya</h1>
+  
+<ul><li>I'm a Final year B.tech student with specialization in Electronics and Communication Engineering.</li>
+<li>Interested in contributing to open source projects. Currently exploring Machine Learning domain.</li>
+<li>Proficient in Python, Data Science, Machine Learning and Web Development.</li></ul></div>
+  
+<div><h1>Languages and Tools</h1>
+  <ul><li><img src="https://camo.githubusercontent.com/c9e3930524657182e5b320ff9f26333921a559c03113a6ee9833ff4abb20ae62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d677261793f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e"</li>
+    <li><img src="https://camo.githubusercontent.com/1d41c06378659adf22dc70f4060126fcfe03ab375fcc489bd3add301d006f7b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d43"></li>
+    <li><img src="https://camo.githubusercontent.com/f4a68553a3b30516c1cb8175732265a16861872c605dc5baeeb488bc7ed80432/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d776869746526636f6c6f723d626c7565"></li>
+    <li><img src="https://camo.githubusercontent.com/1c96abf571839d4d8eb03015c1ac202b1d5b527fb34751cf2f7fa58226154f32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d776869746526636f6c6f723d726564"></li>
+    <li><img src="https://camo.githubusercontent.com/26d02b3e2f18686487c332bba509ecb5747b4be45b02bd5dfb5814d3262e9f05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d616368696e652532304c6561726e696e672d6461726b677265656e3f7374796c653d666f722d7468652d6261646765"></li>
+    <li><img src="https://camo.githubusercontent.com/6fd07fa0147f62d76a35608292276eeb65912a7e956de1ab09b293e87fedbf98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d62726f776e3f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b"></li>
+    <li><img src="https://camo.githubusercontent.com/37d852cd0d5505213c1a8d522c342c43bd4c8590940eedd712721237cd029421/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d776869746526636f6c6f723d626c7565"></li>
+  </ul>
+  <div><h1>Connect with Me!</h1>
+    <ul><li>Email: aditya1660@gmail.com</li>
+      <li><a href="https://www.linkedin.com/in/aditya-gupta-b0ab111b6">LinkedIn</li>
