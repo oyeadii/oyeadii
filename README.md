@@ -6,5 +6,3 @@ Interested in contributing to open source projects. Currently exploring Machine 
 
 Proficient in Python, Data Science, Machine Learning and Web Development.
 
-
-Languages And Tools
