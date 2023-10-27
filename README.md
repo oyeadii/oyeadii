@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Aditya</h1>
 
-<p align="center">🚀 AI Architect at <a href="https://www.dotnitron.com/">Dotnitron Technologies</a></p>
+<p align="center">🚀 AI Architect at <a href="https://dotnitron.com/">Dotnitron Technologies</a></p>
 
 
 <p align="center">🌟 Passionate about leveraging AI and data to build innovative solutions.</p>
