@@ -20,7 +20,7 @@
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #e4e4e4; border-radius: 5px; background: #f8f8f8;">
       <h3>Backend</h3>
-      <p>Flask, Django</p>
+      <p>Flask, Django, FastAPI</p>
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #e4e4e4; border-radius: 5px; background: #f8f8f8;">
       <h3>Data Processing</h3>
